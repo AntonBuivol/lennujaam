@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "marsruut": {
+      "valjumiskoht": "Kebonsari",
+      "saabumiskoht": "Somanda"
+    },
+    "valjumisaeg": "7/23/2024",
+    "saabumisaeg": "9/23/2024"
+  },
+  {
+    "id": "2",
+    "marsruut": {
+      "valjumiskoht": "Bogi",
+      "saabumiskoht": "Guararema"
+    },
+    "valjumisaeg": "1/31/2024",
+    "saabumisaeg": "9/24/2024"
+  },
+  {
+    "id": "3",
+    "marsruut": {
+      "valjumiskoht": "Ancenis",
+      "saabumiskoht": "Bandar-e Māhshahr"
+    },
+    "valjumisaeg": "6/3/2024",
+    "saabumisaeg": "4/4/2024"
+  },
+  {
+    "id": "4",
+    "marsruut": {
+      "valjumiskoht": "Padangulaktanding",
+      "saabumiskoht": "Sapouy"
+    },
+    "valjumisaeg": "3/24/2024",
+    "saabumisaeg": "8/6/2024"
+  },
+  {
+    "id": "5",
+    "marsruut": {
+      "valjumiskoht": "Ban Phaeo",
+      "saabumiskoht": "Leiria"
+    },
+    "valjumisaeg": "4/1/2024",
+    "saabumisaeg": "4/20/2024"
+  },
+  {
+    "id": "6",
+    "marsruut": {
+      "valjumiskoht": "Oji River",
+      "saabumiskoht": "Cienfuegos"
+    },
+    "valjumisaeg": "4/20/2024",
+    "saabumisaeg": "3/20/2024"
+  },
+  {
+    "id": "7",
+    "marsruut": {
+      "valjumiskoht": "Haukipudas",
+      "saabumiskoht": "Mników"
+    },
+    "valjumisaeg": "11/12/2023",
+    "saabumisaeg": "12/26/2023"
+  },
+  {
+    "id": "8",
+    "marsruut": {
+      "valjumiskoht": "Sokołów Podlaski",
+      "saabumiskoht": "Ash Shaddādah"
+    },
+    "valjumisaeg": "2/8/2024",
+    "saabumisaeg": "3/19/2024"
+  },
+  {
+    "id": "9",
+    "marsruut": {
+      "valjumiskoht": "Daji",
+      "saabumiskoht": "Sanli"
+    },
+    "valjumisaeg": "12/9/2023",
+    "saabumisaeg": "1/3/2024"
+  },
+  {
+    "id": "10",
+    "marsruut": {
+      "valjumiskoht": "Amagi",
+      "saabumiskoht": "Banjarejo"
+    },
+    "valjumisaeg": "12/9/2023",
+    "saabumisaeg": "12/10/2023"
+  },
+  {
+    "id": "11",
+    "marsruut": {
+      "valjumiskoht": "Dumandesa",
+      "saabumiskoht": "Nong Chik"
+    },
+    "valjumisaeg": "9/3/2024",
+    "saabumisaeg": "3/6/2024"
+  },
+  {
+    "id": "12",
+    "marsruut": {
+      "valjumiskoht": "Nankāna Sāhib",
+      "saabumiskoht": "Grootfontein"
+    },
+    "valjumisaeg": "4/24/2024",
+    "saabumisaeg": "10/21/2024"
+  },
+  {
+    "id": "13",
+    "marsruut": {
+      "valjumiskoht": "Turar Ryskulov",
+      "saabumiskoht": "Lexington"
+    },
+    "valjumisaeg": "11/15/2023",
+    "saabumisaeg": "10/23/2024"
+  },
+  {
+    "id": "14",
+    "marsruut": {
+      "valjumiskoht": "Oslo",
+      "saabumiskoht": "Rio Verde de Mato Grosso"
+    },
+    "valjumisaeg": "7/21/2024",
+    "saabumisaeg": "6/2/2024"
+  },
+  {
+    "id": "15",
+    "marsruut": {
+      "valjumiskoht": "El Copé",
+      "saabumiskoht": "Bradashesh"
+    },
+    "valjumisaeg": "2/23/2024",
+    "saabumisaeg": "7/4/2024"
+  },
+  {
+    "id": "16",
+    "marsruut": {
+      "valjumiskoht": "Brzeźnica",
+      "saabumiskoht": "Likwatang Timur"
+    },
+    "valjumisaeg": "3/6/2024",
+    "saabumisaeg": "1/25/2024"
+  },
+  {
+    "id": "17",
+    "marsruut": {
+      "valjumiskoht": "Jandayan",
+      "saabumiskoht": "Bosilovo"
+    },
+    "valjumisaeg": "7/11/2024",
+    "saabumisaeg": "4/7/2024"
+  },
+  {
+    "id": "18",
+    "marsruut": {
+      "valjumiskoht": "Xingbin",
+      "saabumiskoht": "Kolape"
+    },
+    "valjumisaeg": "2/10/2024",
+    "saabumisaeg": "2/22/2024"
+  },
+  {
+    "id": "19",
+    "marsruut": {
+      "valjumiskoht": "Ţafas",
+      "saabumiskoht": "Guzhan"
+    },
+    "valjumisaeg": "1/16/2024",
+    "saabumisaeg": "10/7/2024"
+  },
+  {
+    "id": "20",
+    "marsruut": {
+      "valjumiskoht": "Cimuncang",
+      "saabumiskoht": "Gunung Timur"
+    },
+    "valjumisaeg": "5/31/2024",
+    "saabumisaeg": "2/23/2024"
+  }
+]

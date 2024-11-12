@@ -1,0 +1,72 @@
+
+body {
+    font-family: 'Arial';
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+table { /*Делят клетки внутри таблицы*/
+    width: 60%;
+    margin-left: 17%;
+}
+th, td {
+    border: 1px solid whitesmoke;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+form {
+    margin-top: 20px;
+    margin-left: 17%;
+}
+input[type="text"], input[type="submit"], input[type="button"] {
+    padding: 8px;
+    margin-right: 10px;
+}
+input[type="submit"], input[type="button"] {
+    background-color: limegreen;
+    color: white;
+    border: none;
+    cursor: pointer; /* Видно курсор над обьектом*/
+}
+td{
+    background-color: white;
+}
+td[colspan=”2″] {
+    text-align: center;
+}
+h1{
+    color: white;
+    background-color: black;
+    height: 80px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+
+}
