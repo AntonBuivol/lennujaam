@@ -21,7 +21,13 @@ $searchDateSaabuDateTime = $searchDateSaabu ? new DateTime($searchDateSaabu) : n
 
 <body>
 <h1>Lennujaama Haldussüsteem</h1>
-<a href="xmlToJson.php">JSON</a>
+<nav>
+    <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="xmlToJson.php">Convert XML to JSON</a></li>
+        <li><a href="addToJson.php">Add airport to JSON</a></li>
+    </ul>
+</nav>
 <form action="index.php">
     <input type="text" name="searchValjuCity" placeholder="Otsi Valjumiskoht" id="search">
     <input type="text" name="searchSaabuCity" placeholder="Otsi Saabumiskoht" id="search">

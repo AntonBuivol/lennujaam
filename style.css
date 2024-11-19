@@ -16,7 +16,6 @@ th, td {
 th {
     background-color: black;
     color: white;
-    cursor: pointer;
 }
 form {
     margin-top: 20px;
@@ -25,6 +24,7 @@ form {
 input[type="text"], input[type="submit"], input[type="button"] {
     padding: 8px;
     margin-right: 10px;
+    margin-top: 10px;
 }
 input[type="submit"], input[type="button"] {
     background-color: limegreen;
@@ -68,5 +68,32 @@ button {
 
 button:hover {
     background-color: #45a049;
-
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: #111;
+}
+#LenujaamLisamine{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+input[type='date']{
+    margin-top: 10px;
 }

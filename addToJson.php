@@ -36,20 +36,28 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
     <title>Add to JSON</title>
 </head>
 <body>
-<form method="post">
+<h1>Lennujaama lisamine</h1>
+<nav>
+    <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="xmlToJson.php">Convert XML to JSON</a></li>
+        <li><a href="addToJson.php">Lisage lennujaam JSON-i</a></li>
+    </ul>
+</nav>
+<form method="post" id="LenujaamLisamine">
     <label for="valjumiskoht">Valjumiskoht: </label>
     <input type="text" name="valjumiskoht" placeholder="Kirjuta Valjumiskoht" id="valjumiskoht">
-
+    <br>
     <label for="saabumiskoht">Saabumiskoht: </label>
     <input type="text" name="saabumiskoht" placeholder="kirjuta Saabumiskoht" id="saabumiskoht">
-
+    <br>
     <label for="valjumisaeg">Valjumisaeg: </label>
     <input type="date" name="valjumisaeg" id="valjumisaeg">
-
+    <br>
     <label for="saabumisaeg">Saabumisaeg: </label>
     <input type="date" name="saabumisaeg" id="saabumisaeg">
-
-    <input type="submit" value="Lisa">
+    <br>
+    <button type="submit">Lisa</button>
 </form>
 </body>
 </html>
